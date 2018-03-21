@@ -1,0 +1,15 @@
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\obj\Debug\JoesAutomotiveBeingUgly.csprojResolveAssemblyReference.cache
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\obj\Debug\JoesAutomotiveImprovedUgly.Form1.resources
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\obj\Debug\JoesAutomotiveImprovedUgly.Invoice.resources
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\obj\Debug\JoesAutomotiveImprovedUgly.Parts.resources
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\obj\Debug\JoesAutomotiveBeingUgly.Properties.Resources.resources
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\obj\Debug\JoesAutomotiveImprovedUgly.Automobile.resources
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\obj\Debug\JoesAutomotiveBeingUgly.csproj.GenerateResource.Cache
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\obj\Debug\JoesAutomotiveBeingUgly.csproj.CoreCompileInputs.cache
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\bin\Debug\Customers.mdf
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\bin\Debug\Customers_log.ldf
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\bin\Debug\JoesAutomotiveBeingUgly.exe.config
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\bin\Debug\JoesAutomotiveBeingUgly.exe
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\bin\Debug\JoesAutomotiveBeingUgly.pdb
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\obj\Debug\JoesAutomotiveBeingUgly.exe
+C:\Users\000180094\Documents\GitHub\JoesAutomotiveBeingUgly\JoesAutomotiveBeingUgly\obj\Debug\JoesAutomotiveBeingUgly.pdb
